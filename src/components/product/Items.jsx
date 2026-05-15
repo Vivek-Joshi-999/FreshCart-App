@@ -1,5 +1,5 @@
 import apple from "../../assets/products/apple.png";
-import avocado from "../../assets/products/avocado.png";
+import avocado from "../../assets/products/Avocado.png";
 import coke from "../../assets/products/coke.png";
 import pepsi from "../../assets/products/pepsi.png";
 import Item from "./Item";
